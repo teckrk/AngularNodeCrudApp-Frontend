@@ -1,7 +1,7 @@
 <h1>AngularNodeCrudApp-Frontend</h1>
 
-<img src="https://via.placeholder.com/800x400" alt="Frontend Overview" width="100%" />
-<img src="https://via.placeholder.com/800x400" alt="UI Preview" width="100%" />
+<img src="Screenshot (20).png" alt="Frontend Overview" width="100%" />
+<img src="Screenshot (21).png" alt="UI Preview" width="100%" />
 
 <h2>📋 Project Overview</h2>
 <p>
